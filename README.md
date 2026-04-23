@@ -63,6 +63,9 @@ P = M + lambda q,  lambda = -h / qz
 
 若 `qz >= 0`，说明无法打到纸面；若 `P` 超出 A4，则标记越界。
 
+###在线使用
+https://huazhongcup-reflect-art-display.streamlit.app
+
 ## 本地运行
 
 ### 1. 安装依赖
